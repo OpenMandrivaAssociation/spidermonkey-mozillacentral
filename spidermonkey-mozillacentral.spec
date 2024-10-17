@@ -15,7 +15,7 @@ Version:	0.hg75545.AURORA_BASE_20110816.77bc1868ea23
 Release:	1
 License:	MPL
 Group:		Development/Other
-URL:		http://www.mozilla.org/js/
+URL:		https://www.mozilla.org/js/
 ## Generated from mozilla-central mercurial repository, with:
 ## $ hg archive --prefix spidermonkey-mozillacentral-$(hg log -l 1 --template '0.hg{rev}.{latesttag}.{node|short}')/ \
 ## --include "js/src/" --include "mfbt/" \
